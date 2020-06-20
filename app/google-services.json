@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "200253835056",
+    "firebase_url": "https://lab01-20140887.firebaseio.com",
+    "project_id": "lab01-20140887",
+    "storage_bucket": "lab01-20140887.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200253835056:android:e4a01d6f4c12caa3296af5",
+        "android_client_info": {
+          "package_name": "com.example.bloodonador"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200253835056-u61ql3ggej6j220p2vddkofp6ahuqk28.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bloodonador",
+            "certificate_hash": "d324f0e8442bed742ccaef7feffc202e44eb4e6f"
+          }
+        },
+        {
+          "client_id": "200253835056-lgoig3iqab8vk82v5dh8ovct7hnorvqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPI6dNoE6YjydLw_Wy3GZsScyo-1bwgvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200253835056-lgoig3iqab8vk82v5dh8ovct7hnorvqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
